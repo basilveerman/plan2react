@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "plan2react",
+    "style": "css",
+    "postcss": true
+  }
+}
